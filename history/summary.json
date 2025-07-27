@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 756,
-    "timeWeek": 826,
-    "timeMonth": 826,
-    "timeYear": 826,
+    "time": 783,
+    "timeDay": 651,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosent.nl.ico",
     "slug": "cosent",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 229,
-    "timeDay": 244,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
-    "dailyMinutesDown": {
-      "2025-07-26": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 273,
+    "timeDay": 302,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
+    "dailyMinutesDown": {}
   }
 ]
