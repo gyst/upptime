@@ -4,18 +4,20 @@
     "url": "https://quaive.com",
     "icon": "https://icons.duckduckgo.com/ip3/quaive.com.ico",
     "slug": "quaive",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 699,
-    "timeWeek": 958,
-    "timeMonth": 910,
-    "timeYear": 910,
-    "dailyMinutesDown": {}
+    "time": 2217,
+    "timeDay": 9300,
+    "timeWeek": 3076,
+    "timeMonth": 2217,
+    "timeYear": 2217,
+    "dailyMinutesDown": {
+      "2025-08-04": 0
+    }
   },
   {
     "name": "Cosent",
