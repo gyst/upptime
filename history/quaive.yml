@@ -1,7 +1,7 @@
 url: https://quaive.com
-status: up
+status: degraded
 code: 200
-responseTime: 1359
-lastUpdated: 2025-08-04T11:45:54.422Z
+responseTime: 24687
+lastUpdated: 2025-08-04T13:15:39.110Z
 startTime: 2025-07-25T09:49:40.991Z
 generator: Upptime <https://github.com/upptime/upptime>
