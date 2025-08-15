@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/quaive.com.ico",
     "slug": "quaive",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 3012,
-    "timeDay": 1162,
-    "timeWeek": 948,
-    "timeMonth": 3012,
-    "timeYear": 3012,
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 2936,
+    "timeDay": 809,
+    "timeWeek": 958,
+    "timeMonth": 2936,
+    "timeYear": 2936,
     "dailyMinutesDown": {
       "2025-08-04": 120
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 723,
-    "timeWeek": 320,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "time": 307,
+    "timeDay": 270,
+    "timeWeek": 328,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   }
 ]
