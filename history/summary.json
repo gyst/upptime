@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/quaive.com.ico",
     "slug": "quaive",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.84%",
     "time": 2012,
     "timeDay": 4494,
     "timeWeek": 2008,
     "timeMonth": 1222,
     "timeYear": 2012,
     "dailyMinutesDown": {
-      "2025-09-24": 10,
       "2025-08-24": 20,
       "2025-08-04": 120
     }
