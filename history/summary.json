@@ -28,19 +28,19 @@
     "url": "https://cosent.nl",
     "icon": "https://icons.duckduckgo.com/ip3/cosent.nl.ico",
     "slug": "cosent",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 393,
-    "timeWeek": 490,
-    "timeMonth": 353,
-    "timeYear": 336,
+    "time": 335,
+    "timeDay": 254,
+    "timeWeek": 443,
+    "timeMonth": 346,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2026-01-22": 0
+      "2026-01-22": 7
     }
   },
   {
