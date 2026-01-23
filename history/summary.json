@@ -30,18 +30,16 @@
     "slug": "cosent",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
     "timeDay": 277,
     "timeWeek": 446,
     "timeMonth": 345,
     "timeYear": 335,
-    "dailyMinutesDown": {
-      "2026-01-22": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dark Edge",
