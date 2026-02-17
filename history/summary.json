@@ -6,12 +6,12 @@
     "slug": "quaive",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 1482,
-    "timeDay": 1011,
+    "timeDay": 1063,
     "timeWeek": 1101,
     "timeMonth": 931,
     "timeYear": 1482,
@@ -49,9 +49,9 @@
     "url": "https://darkedge.world",
     "icon": "https://icons.duckduckgo.com/ip3/darkedge.world.ico",
     "slug": "dark-edge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,6 +60,8 @@
     "timeWeek": 250,
     "timeMonth": 347,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-17": 0
+    }
   }
 ]
