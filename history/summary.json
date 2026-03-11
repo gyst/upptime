@@ -29,9 +29,9 @@
     "url": "https://cosent.nl",
     "icon": "https://icons.duckduckgo.com/ip3/cosent.nl.ico",
     "slug": "cosent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -41,6 +41,7 @@
     "timeMonth": 412,
     "timeYear": 348,
     "dailyMinutesDown": {
+      "2026-03-11": 0,
       "2026-02-14": 19
     }
   },
@@ -49,9 +50,9 @@
     "url": "https://darkedge.world",
     "icon": "https://icons.duckduckgo.com/ip3/darkedge.world.ico",
     "slug": "dark-edge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -61,6 +62,7 @@
     "timeMonth": 288,
     "timeYear": 358,
     "dailyMinutesDown": {
+      "2026-03-11": 0,
       "2026-02-17": 17
     }
   }
