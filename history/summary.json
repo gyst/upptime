@@ -36,9 +36,9 @@
     "url": "https://cosent.nl",
     "icon": "https://icons.duckduckgo.com/ip3/cosent.nl.ico",
     "slug": "cosent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -52,7 +52,8 @@
       "2026-03-11": 20,
       "2026-03-12": 22,
       "2026-05-05": 24,
-      "2026-05-19": 39
+      "2026-05-19": 39,
+      "2026-07-02": 0
     }
   },
   {
