@@ -10,14 +10,24 @@ sites:
     - gyst
   - name: Cosent
     url: https://cosent.nl
-    maxResonseTime: 5000
+    maxResponseTime: 5000
     assignees:
     - gyst
   - name: Dark Edge
     url: https://darkedge.world
-    maxResonseTime: 5000
+    maxResponseTime: 5000
     assignees:
-    - gyst  
+    - gyst
+  - name: Asynco Website
+    url: https://www.asynco.org/
+    maxResponseTime: 5000
+    assignees:
+    - gyst
+  - name: Asynco Quaive
+    url: https://quaive.asynco.org/@@ok
+    maxResponseTime: 5000
+    assignees:
+    - gyst
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
