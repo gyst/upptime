@@ -98,19 +98,19 @@
     "url": "https://quaive.asynco.org/@@ok",
     "icon": "https://icons.duckduckgo.com/ip3/quaive.asynco.org.ico",
     "slug": "asynco-quaive",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 582,
-    "timeDay": 639,
-    "timeWeek": 582,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "status": "up",
+    "uptime": "71.82%",
+    "uptimeDay": "41.61%",
+    "uptimeWeek": "71.82%",
+    "uptimeMonth": "71.82%",
+    "uptimeYear": "71.82%",
+    "time": 580,
+    "timeDay": 616,
+    "timeWeek": 580,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2026-10-31": 0
+      "2026-10-31": 841
     }
   }
 ]
